@@ -1,7 +1,10 @@
 h2, h1, p {
   text-align: center;
-  background-color: gray;
+  
 }
 img {
   width: 250px;
+}
+html {
+  background-color: gray;
 }
