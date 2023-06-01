@@ -8,3 +8,6 @@ img {
 html {
   background-color: azure; 
 }
+p, h2 {
+  font-family: sans-serif;
+}
