@@ -5,9 +5,10 @@ h2, h1, p {
 img {
   width: 500px;
 }
-html {
-  background-color: azure; 
-}
+
 p, h2 {
   font-family: sans-serif;
+}
+html{
+  background-color: rgb(255, 151, 0)
 }
