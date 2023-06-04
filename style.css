@@ -6,12 +6,13 @@ img {
   width: 500px;
 }
 
-p, h2 {
+p, h2 
+{
   font-family: sans-serif;
 }
 html{
   background-color: rgb(255, 151, 0);
 }
 h1 {
-  color: rgb(125, 50, 0);
+  color: rgb(100, 25, 0);
 }
