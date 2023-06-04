@@ -20,3 +20,8 @@ html{
   border: 5px 5px 10px black;
   margin-bottom: auto;
 }
+a {
+  font-family: Arial;
+  color:rgb(80, 25, 0);
+  font-size:medium;
+}
