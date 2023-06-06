@@ -25,3 +25,9 @@ a {
   color:rgb(80, 25, 0);
   font-size:medium;
 }
+a:hover{
+  color: rgb(00,70,90)
+}
+a:active{
+  color:black
+}
