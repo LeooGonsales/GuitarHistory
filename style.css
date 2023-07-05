@@ -37,3 +37,7 @@ a:active{
 h1{
   background-color: rgba(70, 105, 170, 0.692)
 }
+body, html {
+  margin: 0;
+  padding: 0;
+}
