@@ -12,12 +12,10 @@ p, h2
 }
 html{
   background-color: rgb(255, 151, 0);
+  margin-bottom: auto;
 }
 h1 {
   color: rgb(100, 25, 0);
-}
-html{
-  margin-bottom: auto;
 }
 a {
   font-family: Arial;
